@@ -1,4 +1,4 @@
-# RaymarchingMRIView
+# Raymarching MRI Viewer
 Raymarching MRI viewer and other simple examples
 
 In this project you can see my brain parsed from dicom MRI scans
