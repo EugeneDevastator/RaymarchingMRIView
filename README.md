@@ -1,3 +1,9 @@
+# Intro
+If youd like to look at your mri in 3D send me a donut, it will also propell this project forward for everyone else
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F61TNO40)
+
+
 # Raymarching MRI Viewer
 Raymarching MRI viewer and other simple examples
 
@@ -8,3 +14,6 @@ As well as other simple raymarching examples of volumes with perlin noise distor
 <img width="312" alt="image" src="https://user-images.githubusercontent.com/5610313/163670685-f4cadb53-1e64-447f-8761-c151a9b5024a.png">
 
 <img width="254" alt="image" src="https://user-images.githubusercontent.com/5610313/163670729-6df2bdad-7f3b-4903-aa8b-509776283948.png">
+
+# License
+NON-COMMERCIAL OPEN SOURCE
